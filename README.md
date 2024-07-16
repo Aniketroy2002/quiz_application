@@ -1,2 +1,2 @@
 # quiz_application  Full Stack.
-# Live on myquizapplication.onrender.com
+ Live over the internet.
